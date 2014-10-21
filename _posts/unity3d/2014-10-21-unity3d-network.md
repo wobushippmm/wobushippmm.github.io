@@ -144,3 +144,15 @@ tags : [unity3d]
 看上面那张图，把这个脚本也挂到Panel上面。
 
 build程序，启动两个程序（其中一个用unity3d启动，要不然怎么看debug消息！），其中一个做server，另一个做client。看到u3d打印出信息了吗（什么？没有打印出调试信息？拜托，你把u3d放到电脑最上层看看。u3d的刷新有点蛋疼，虽然是为了节省资源，此处花去2小时寻找为什么没有连接上，特别鸣谢二傻子让我不耻下问）。好了，现在看到连接成功，来试一下发送个hello消息。恭喜可以开始联机对战游戏开发了！
+
+### Master Server
+
+下载[MasterServer](http://unity3d.com/master-server)和[ProxyServer](http://unity3d.com/master-server)
+
+主服务器，提供提供查询，更容易建立连接，更多的连接选择。
+
+看看[别人的文档](http://blog.csdn.net/awnuxcvbn/article/details/17525087)吧
+
+## 感想
+
+这是一个到处都有的blog
