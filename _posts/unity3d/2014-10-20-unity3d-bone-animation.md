@@ -93,6 +93,7 @@ OK，骨骼动画就这么实现了，你以为这样就结束了吗？NO，NO�
 小头娃娃和大头娃娃。看到没有，身体一样大的，头不一样大。
 
 ![8](/../../assets/images/unity3d-bone-animation/8.jpg)
+
 ![9](/../../assets/images/unity3d-bone-animation/9.jpg)
 
 拉伸骨骼，和骨骼绑定的模型也会被拉伸，这样就达到了控制骨骼来改变模型大小的目的。
