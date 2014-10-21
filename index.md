@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog for reborn
+title: Memory for reborn
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
